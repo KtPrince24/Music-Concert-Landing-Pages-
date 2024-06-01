@@ -1,0 +1,14 @@
+.lineup {
+    background-color: #fff;
+  }
+  
+  .artist-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .artist {
+    margin: 10px;
+    text-align: center;
+  }

@@ -1,0 +1,12 @@
+.venue {
+    background-color: #fff;
+  }
+  
+  .venue-map iframe {
+    width: 100%;
+    height: 300px;
+  }
+  
+  .accommodation {
+    margin-top: 20px;
+  }

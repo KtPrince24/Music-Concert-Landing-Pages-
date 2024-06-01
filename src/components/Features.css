@@ -1,0 +1,12 @@
+.features {
+    background-color: #f5f5f5;
+  }
+  
+  .features ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .features li {
+    margin: 10px 0;
+  }
